@@ -1,0 +1,18 @@
+Para resolver esse problema, você pode usar os interruptores ligando 
+e desligando e o tempo que as lâmpadas levam para aquecer:
+ 
+Em primeiro lugar:
+Lige o interruptor 1 (o primeiro interruptor) e deixe-o ligado por alguns minutos. 
+Após isso, desligue o Interruptor 1 e ligue o Interruptor 2. O Interruptor 2 deve estar ligado 
+e o Interruptor 3 deve estar desligado.
+
+Em sua primeira visita à Sala das Lâmpadas:
+Agora, vá para a sala de iluminação.
+A lâmpada acesa representa o Interruptor 2, 
+que você ligou recentemente antes de entrar na sala.
+
+Toque nas duas outras luzes:
+A lâmpada quente representa o Interruptor 1, que foi ligado por cinco minutos e depois desligado. 
+A lâmpada desligada e fria representa o Interruptor 3, que nunca foi ligado. Com apenas uma ida 
+até a sala das lâmpadas, você pode descobrir qual interruptor comanda cada lâmpada. 
+Não há necessidade de uma segunda ida.

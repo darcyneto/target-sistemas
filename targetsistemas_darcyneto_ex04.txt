@@ -1,0 +1,27 @@
+a)
+Lógica: A sequência é composta por números ímpares consecutivos
+Próximo elemento: 9
+
+b) 
+Lógica: Cada número é o dobro do anterior (progressão geométrica com razão 2)
+Próximo elemento: 128
+
+c) 
+Lógica: A sequência é composta pelos quadrados dos números inteiros:
+0^2, 1^1, 2^2, 3^2, 4^2, 5^2 e 6^2
+Próximo elemento: 49 (7^2)
+
+d) 
+Lógica: A sequência é composta pelos quadrados dos números pares:
+2^2, 4^2, 6^2, 8^2
+Próximo elemento: 100 (10^2)
+
+e) 
+Lógica: Esta é a sequência de Fibonacci, cada número é a soma dos dois anteriores.
+Próximo elemento: 13 (5+8)
+
+f) Lógica: A sequência alternar entre números que aumentam com diferentes padrões. 
+Se observarmos os números, depois de "2", há um aumento de 8 (para 10), depois de 2 (para 12), 
+e em seguida, 4 (para 16). A sequência seguinte parece aumentar de 1 em 1. 
+Continuando o padrão de aumentar em 1.
+Próximo elemento: 20
